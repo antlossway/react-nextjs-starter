@@ -1,4 +1,4 @@
-# react starter kit with tailwind
+# react starter kit with tailwind and js
 
 ## command used
 
