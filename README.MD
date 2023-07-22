@@ -1,1 +1,1 @@
-# react/nextjs starter kit
+# react starter kit with tailwind and javascript
